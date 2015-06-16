@@ -1,0 +1,1 @@
+You need to import google-play-services_lib and add into your project and also start google API from google api console
